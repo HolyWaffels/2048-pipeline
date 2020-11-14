@@ -1,4 +1,3 @@
-package com.uberspot.a2048;
 
 import org.junit.Test;
 
